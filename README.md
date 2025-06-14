@@ -1,3 +1,9 @@
+## Notes
+
+I wasn't too sure exactly what you meant by "A secured URL is required to edit or delete a task", given that no user accounts or authentication were required. So I assumed you meant something like a signed URL with the signature generated in the response on creating a task.
+
+----
+
 Thank you for taking the time to complete this task. We appreciate your effort and look forward to reviewing your submission.
 
 We would like you to create a basic Laravel API called **“Laravel Tech Task Demo API”**. The purpose of the API is to display, add, edit and delete tasks.
